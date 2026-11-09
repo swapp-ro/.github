@@ -10,4 +10,4 @@ Pentru cei neînregistrați în scopuri de TVA, cu venitul determinat în sistem
 
 ---
 
-<sub>Invoicing and single-entry accounting for Romanian sole traders, at [swapp.ro](https://swapp.ro). The code of the current version is hosted on [Codeberg](https://codeberg.org/swapp-ro).</sub>
+<sub>Invoicing and single-entry accounting for Romanian sole traders, at [swapp.ro](https://swapp.ro). The code of the current version has moved to an EU-based hosting provider.</sub>
